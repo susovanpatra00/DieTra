@@ -7,3 +7,6 @@ TARGET_SR = 16000              # Voxtral required sampling rate
 # Default Voxtral model
 DEFAULT_MODEL_SIZE = "mini"
 DEFAULT_LANGUAGE = "en"
+
+# Default Region
+DEFAULT_S3_REGION = "us-east-1"
